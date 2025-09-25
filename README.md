@@ -13,7 +13,7 @@ It’s a hands-on exercise designed to practice **junior SysAdmin / DevOps funda
 
 ---
 
-## 🛠️ Steps & Screenshots  
+## Steps & Screenshots  
 
 ### 1. Create Users  
 Added two users:  
