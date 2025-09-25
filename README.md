@@ -71,8 +71,7 @@ Checked the internal IP for remote connection.
 - Connected as `user1` → sudo access works  
 - Connected as `user2` → no sudo rights  
 
-![SSH User1](screenshots/09-ssh-user1.png)  
-![SSH User2](screenshots/10-ssh-user2.png)  
+
 ![Sudo User1](screenshots/11-sudo-user1.png)  
 ![Sudo User2](screenshots/12-sudo-user2.png)  
 
