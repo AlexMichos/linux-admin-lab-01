@@ -85,4 +85,4 @@ This project shows how to:
 - Secure a server with SSH and UFW  
 - Connect remotely from another machine  
 
-A small but complete **Linux SysAdmin mini project** to showcase system administration fundamentals.  
+
