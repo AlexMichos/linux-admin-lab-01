@@ -1,3 +1,4 @@
+
 # linux-sysadmin-project-01
 # User Management, SSH & Firewall 
 ##  Overview  
@@ -17,8 +18,8 @@ It’s a hands-on exercise designed to practice **junior SysAdmin / DevOps funda
 
 ### 1. Create Users  
 Added two users:  
-- `user1` (with sudo rights)  
-- `user2` (no sudo access)  
+- user1 (with sudo rights)  
+- user2 (no sudo access)  
 
 ![Add User1](screenshots/01-adduser1.png)  
 ![Add User2](screenshots/03-adduser2.png)  
@@ -26,7 +27,7 @@ Added two users:
 ---
 
 ### 2. Assign Sudo to `user1`  
-Gave `user1` administrator privileges.  
+Gave user1 administrator privileges.  
 
 ![Usermod Sudo](screenshots/02-usermod-sudo.png)  
 
@@ -40,7 +41,7 @@ Confirmed group membership for both users.
 ---
 
 ### 4. Create Project Directory  
-Created `/home/user1/projects` and set proper permissions.  
+Created /home/user1/projects and set proper permissions.  
 
 ![Projects Directory](screenshots/05-projects-dir.png)  
 
@@ -68,8 +69,8 @@ Checked the internal IP for remote connection.
 ---
 
 ### 8. Remote SSH Access  
-- Connected as `user1` → sudo access works  
-- Connected as `user2` → no sudo rights  
+- Connected as user1 → sudo access works  
+- Connected as user2 → no sudo rights  
 
 
 ![Sudo User1](screenshots/11-sudo-user1.png)  
